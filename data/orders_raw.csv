@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product_id,product_category,quantity,unit_price
+1001,2026-02-01,501,2001,Books,2,12.50
+1002,2026-02-01,502,2002,Electronics,1,199.99
+1003,2026-02-02,501,2003,Books,3,8.90
+1004,2026-02-03,503,2002,Electronics,2,199.99
+1005,2026-02-03,504,2004,Home,1,35.00
